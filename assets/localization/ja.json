@@ -1,0 +1,120 @@
+{
+    "register_page": {
+        "title": "ようこそ kendamanomics",
+        "app_description": "けん玉の上達をサポートするアプリです",
+        "app_ranking_description": "また、トリックや大会での勝利に基づいてプレイヤーをランク付けするランキング システムもあります。",
+        "fill_in_fields": "あなたの情報を正確に入力してください:",
+        "back_to_login": "ログインに戻る"
+    },
+    "select_company_page": {
+        "title": "あなたは誰をサポートしますか"
+    },
+    "buttons": {
+        "create_an_account": "アカウントを作成する",
+        "login": "ログイン",
+        "logout": "ログアウト",
+        "change_password": "パスワードを変更する",
+        "reset_password": "メールを送る",
+        "forgot_password": "パスワードを忘れてしまいました",
+        "upload": "アップロード",
+        "revoke": "取り消す",
+        "continue": "続く",
+        "open_settings": "設定を開く",
+        "close": "閉じる",
+        "watch_uploaded": "アップロードされたトリックを見る"
+    },
+    "input_fields": {
+        "first_name": "ファーストネーム",
+        "last_name": "苗字",
+        "email": "Eメール",
+        "instagram_username": "インスタグラムのユーザー名",
+        "experience": "けん玉を何年もやってる",
+        "support": "あなたは誰をサポートしますか",
+        "password": "パスワード",
+        "confirm_password": "パスワードを認証する",
+        "username": "ユーザー名",
+        "verification_code": "検証コード",
+        "new_password": "新しいパスワード",
+        "confirm_new_password": "新しいパスワードを確認"
+    },
+    "helpers": {
+        "email": "電子メールの形式が正しくありません",
+        "password": "電子メールの形式が正しくありません",
+        "passwords_dont_match": "パスワードが一致していません",
+        "password_length": "パスワードの長さは 6 ～ 20 文字にする必要があります",
+        "code": "コードの形式が正しくありません",
+        "name": "名前の形式が正しくありません",
+        "last_name": "姓の形式が正しくありません",
+        "company_name": "会社名の形式が正しくありません",
+        "years_playing": "プレー年数が正しい形式ではありません",
+        "years_playing_large": "けん玉歴は15年を超えてはいけません"
+    },
+    "default_titles": {
+        "tama_group": "たまグループ",
+        "tama": "たま",
+        "trick": "騙す"
+    },
+    "snackbar": {
+        "error_email_register": "この電子メールは既に利用されています",
+        "error_server": "サーバーでエラーが発生しました",
+        "error_login_credentials": "メールアドレスまたはパスワードが間違っています",
+        "error_user_exists": "指定されたメールアドレスを持つユーザーはすでに存在します"
+    },
+    "tama_page": {
+        "purchase_pending": "購入中です。お待​​ちください。"
+    },
+    "tricks_page": {
+        "tricks": "トリック"
+    },
+    "upload_trick": {
+        "in_review": "レビュー中",
+        "denied": "拒否されました",
+        "laced": "レース付き",
+        "timeline": "タイムライン",
+        "back_to_trick": "タイムライン",
+        "example": "例",
+        "upload": "アップロード",
+        "info": "情報",
+        "first_lace": "最初に承認する",
+        "players_laced": "承認された選手",
+        "exceeds_40_mb": "ビデオが 40MB を超えているため、アップロードには時間がかかる場合があります",
+        "video_uploading_5s": "ビデオはまだアップロード中です。お待ちください...",
+        "error_video_too_large": "選択したビデオが大きすぎます。情報ボタンをタップして手順をご確認ください",
+        "error_unknown": "不明なエラーが発生しました。もう一度試すか、設定のバグを報告してください"
+    },
+    "submission_log_texts": {
+        "submitted": "ユーザーが送信した",
+        "denied": "管理者によって拒否されました",
+        "denied_out_of_frame": "枠外のため拒否",
+        "denied_incorrect_trick": "不正なトリックのため拒否されました",
+        "denied_inappropriate_behaviour": "不適切な行為のため拒否される",
+        "denied_too_long": "動画が長すぎるため拒否されました",
+        "laced": "管理者によって承認されました",
+        "revoked": "ユーザーによって取り消されました",
+        "awarded": "ユーザーに付与される +1 ポイント"
+    },
+    "leaderboards": {
+        "kendamanomics": "kendamanomics",
+        "competition": "競争",
+        "overall": "全体",
+        "empty_placeholder": "最初のトリックを完了して他のプレイヤーと競争しましょう"
+    },
+    "profile_page" : {
+        "settings": "設定",
+        "damx": "damx",
+        "points": "ポイント",
+        "pick_team":"チームを選ぶ"
+    },
+    "settings_page": {
+        "name": "名前",
+        "team": "チーム",
+        "username": "ユーザー名",
+        "email": "Eメール",
+        "report_bug": "バグを報告する"
+    },
+    "dialogs": {
+        "upload_instructions_title": "アップロードのガイドライン",
+        "permissions": "アプリに写真やビデオへのアクセスを許可しますか?"
+
+    }
+}

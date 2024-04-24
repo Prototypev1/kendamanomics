@@ -1,0 +1,120 @@
+{
+    "register_page": {
+        "title": "welcome to kendamanomics",
+        "app_description": "kendamanomics is an app to help players progress their Kendama skill",
+        "app_ranking_description": "we also have a ranking system that ranks players based on tricks laced and competitions won",
+        "fill_in_fields": "please make sure to fill in your information correctly:",
+        "back_to_login": "back to login"
+    },
+    "select_company_page": {
+        "title": "who do you support"
+    },
+    "buttons": {
+        "create_an_account": "create an account",
+        "login": "login",
+        "logout": "logout",
+        "change_password": "change password",
+        "reset_password": "send email",
+        "forgot_password": "forgot password?",
+        "upload": "upload",
+        "revoke": "revoke",
+        "continue": "continue",
+        "close": "close",
+        "open_settings": "yes, open settings",
+        "watch_uploaded": "watch uploaded trick"
+    },
+    "input_fields": {
+        "first_name": "first name",
+        "last_name": "last name",
+        "email": "email",
+        "instagram_username": "instagram username",
+        "experience": "# years playing kendama",
+        "support": "who do you support?",
+        "password": "password",
+        "confirm_password": "confirm password",
+        "username": "username",
+        "verification_code": "verification code",
+        "new_password": "new password",
+        "confirm_new_password": "confirm new password"
+    },
+    "helpers": {
+        "email": "Email is not in the correct format",
+        "password": "Password is not in the correct format",
+        "passwords_dont_match": "Passwords do not match",
+        "password_length": "Password must be 6-20 characters long",
+        "code": "Code is not in the correct format",
+        "name": "Name is not in the correct format",
+        "last_name": "Last name is not in the correct format",
+        "company_name": "Company name is not in the correct format",
+        "years_playing": "Years playing is not in the correct format",
+        "years_playing_large": "Years playing kendama can't exceed 15"
+    },
+    "default_titles": {
+        "tama_group": "Tama group",
+        "tama": "Tama",
+        "trick": "Trick"
+    },
+    "snackbar": {
+        "error_email_register": "This email is already in use",
+        "error_server": "There was an error with the server",
+        "error_login_credentials": "Email or password is incorrect",
+        "error_user_exists": "User with given email already exists"
+    },
+    "tama_page": {
+        "purchase_pending": "Loading..."
+    },
+    "tricks_page": {
+        "tricks": "tricks"
+    },
+    "upload_trick": {
+        "in_review": "in review",
+        "denied": "denied",
+        "laced": "laced",
+        "timeline": "timeline",
+        "back_to_trick": "back to trick",
+        "example": "example",
+        "upload": "upload",
+        "info": "info",
+        "exceeds_40_mb": "Video is larger than 40mb, the upload might take some time.",
+        "video_uploading_5s": "Video is still uploading, please wait...",
+        "error_video_too_large": "Selected video is too large. Please check the instructions by tapping the info button.",
+        "error_unknown": "Unkown error occured. Please try again, or report a bug in settings",
+        "first_laced": "first to lace",
+        "players_laced": "players laced",
+        "loading": "Loading..."
+    },
+    "submission_log_texts": {
+        "submitted": "user submitted",
+        "denied": "denied by admin",
+        "denied_out_of_frame": "denied for \"out of frame\" ",
+        "denied_incorrect_trick": "denied for \"incorrect trick\" ",
+        "denied_inappropriate_behaviour": "denied for \"inappropriate behaviour\" ",
+        "denied_too_long": "denied for \"video too long\" ",
+        "laced": "accepted by admin",
+        "revoked": "revoked by user",
+        "awarded": "+1 point awarded to user for "
+    },
+    "leaderboards": {
+        "kendamanomics": "kendamanomics",
+        "competition": "competition",
+        "overall": "overall",
+        "empty_placeholder": "Complete your first trick to compete with other players"
+    },
+    "profile_page" : {
+        "settings": "settings",
+        "damx": "damx",
+        "points": "points",
+        "pick_team":"Pick team"
+    },
+    "settings_page": {
+        "name": "name",
+        "team": "team",
+        "username": "username",
+        "email": "email",
+        "report_bug": "report bug"
+    },
+    "dialogs": {
+        "upload_instructions_title": "Upload Guidelines",
+        "permissions": "allow Kendamanomics to access your photos and videos?"
+    }
+}

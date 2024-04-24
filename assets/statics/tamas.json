@@ -1,0 +1,268 @@
+{
+  "data": [
+    {
+      "tama_id": "560d0bf3-c92d-462a-a4d8-a05fc8a534fc",
+      "created_at": "2023-11-29 12:32:52.44405+00",
+      "tama_name": "beech",
+      "tama_image_url": "beech_image_1701261171533.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "432e7e93-975e-4000-935f-08536ee81a7a"
+    },
+    {
+      "tama_id": "1ed4a040-9e88-42e8-b287-81809d23f9de",
+      "created_at": "2023-11-30 11:19:24.487807+00",
+      "tama_name": "birch",
+      "tama_image_url": "birch_image_1701343162836.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "432e7e93-975e-4000-935f-08536ee81a7a"
+    },
+    {
+      "tama_id": "87be1264-52ec-11ee-b9a0-0242ac150002",
+      "created_at": "2023-11-05 20:12:17.223349+00",
+      "tama_name": "beech",
+      "tama_image_url": "beech_tama.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "87be012a-52ec-11ee-b9a0-0242ac150002"
+    },
+    {
+      "tama_id": "a28aeda3-c454-42b7-8d7a-3491867df65a",
+      "created_at": "2023-11-16 09:27:05.983183+00",
+      "tama_name": "beech",
+      "tama_image_url": "beech_image.png",
+      "tama_number_of_tricks": 8,
+      "tama_group_id": "4dbf7111-ed67-4a32-b3de-13b8d8d012a9"
+    },
+    {
+      "tama_id": "87f98d1a-a869-4e22-a650-d631e8dc3b3b",
+      "created_at": "2023-12-20 18:12:03.724993+00",
+      "tama_name": "beech",
+      "tama_image_url": "beech_image_1703095921642.png",
+      "tama_number_of_tricks": 8,
+      "tama_group_id": "157c91a1-876c-400b-9321-bfef7b16f4de"
+    },
+    {
+      "tama_id": "0c632737-f438-4d62-828f-3b18816eaef3",
+      "created_at": "2023-11-16 09:42:06.978201+00",
+      "tama_name": "birch",
+      "tama_image_url": "birch_image.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "4dbf7111-ed67-4a32-b3de-13b8d8d012a9"
+    },
+    {
+      "tama_id": "37f6d5ec-0895-447f-9769-5e2f74f14bc7",
+      "created_at": "2023-11-16 12:36:42.985622+00",
+      "tama_name": "ash",
+      "tama_image_url": "ash_image.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "4dbf7111-ed67-4a32-b3de-13b8d8d012a9"
+    },
+    {
+      "tama_id": "9f2457bb-3705-467a-9fcd-2565e334e452",
+      "created_at": "2023-11-16 12:42:45.870098+00",
+      "tama_name": "bamboo",
+      "tama_image_url": "bamboo_image.png",
+      "tama_number_of_tricks": 14,
+      "tama_group_id": "4dbf7111-ed67-4a32-b3de-13b8d8d012a9"
+    },
+    {
+      "tama_id": "5e0a996e-2763-4a7c-9865-18181dedf4e3",
+      "created_at": "2023-11-16 12:49:50.685764+00",
+      "tama_name": "purpleheart",
+      "tama_image_url": "purpleheart_image.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "4dbf7111-ed67-4a32-b3de-13b8d8d012a9"
+    },
+    {
+      "tama_id": "8b0c8f26-f9b2-403e-a179-d846336c1d48",
+      "created_at": "2023-12-20 18:12:16.973742+00",
+      "tama_name": "birch",
+      "tama_image_url": "birch_image_1703095935191.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "157c91a1-876c-400b-9321-bfef7b16f4de"
+    },
+    {
+      "tama_id": "60222a9f-7bf2-4ddb-89a0-7a114b4bed1a",
+      "created_at": "2023-12-20 18:12:25.920561+00",
+      "tama_name": "ash",
+      "tama_image_url": "ash_image_1703095944217.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "157c91a1-876c-400b-9321-bfef7b16f4de"
+    },
+    {
+      "tama_id": "87be12d2-52ec-11ee-b9a0-0242ac150002",
+      "created_at": "2023-11-05 20:12:17.223349+00",
+      "tama_name": "birch",
+      "tama_image_url": "birch_tama.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "87be012a-52ec-11ee-b9a0-0242ac150002"
+    },
+    {
+      "tama_id": "ef221970-4d8a-4028-9eca-3f4c0bf3f373",
+      "created_at": "2023-11-07 09:37:58.452386+00",
+      "tama_name": "ash",
+      "tama_image_url": "ash_tama.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "87be012a-52ec-11ee-b9a0-0242ac150002"
+    },
+    {
+      "tama_id": "fd56cd26-b546-4a54-9e20-bb0458930d70",
+      "created_at": "2023-11-05 20:12:17.223349+00",
+      "tama_name": "bamboo",
+      "tama_image_url": "bamboo_tama.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "87be012a-52ec-11ee-b9a0-0242ac150002"
+    },
+    {
+      "tama_id": "0c338f79-03bd-43f0-a331-cba5ed7a3acd",
+      "created_at": "2023-12-20 18:12:45.136859+00",
+      "tama_name": "bamboo",
+      "tama_image_url": "bamboo_image_1703095963381.png",
+      "tama_number_of_tricks": 14,
+      "tama_group_id": "157c91a1-876c-400b-9321-bfef7b16f4de"
+    },
+    {
+      "tama_id": "dbd07d57-61de-480c-99d2-23f2fe2829a9",
+      "created_at": "2023-12-20 18:13:03.42716+00",
+      "tama_name": "purpleheart",
+      "tama_image_url": "purpleheart_image_1703095981498.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "157c91a1-876c-400b-9321-bfef7b16f4de"
+    },
+    {
+      "tama_id": "f01595aa-32fc-49ce-acf6-8f5981a8fcf0",
+      "created_at": "2023-12-20 18:13:15.783844+00",
+      "tama_name": "hickory",
+      "tama_image_url": "hickory_image_1703095994849.png",
+      "tama_number_of_tricks": 24,
+      "tama_group_id": "157c91a1-876c-400b-9321-bfef7b16f4de"
+    },
+    {
+      "tama_id": "a7e9759c-114f-4479-bd6a-c436fe82f98f",
+      "created_at": "2023-12-02 18:56:08.066182+00",
+      "tama_name": "ash",
+      "tama_image_url": "ash_image_1701543366714.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "432e7e93-975e-4000-935f-08536ee81a7a"
+    },
+    {
+      "tama_id": "cfcf2a9c-8211-44d6-86b1-324adb4a649c",
+      "created_at": "2023-12-02 18:59:44.693241+00",
+      "tama_name": "bamboo",
+      "tama_image_url": "bamboo_image_1701543583528.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "432e7e93-975e-4000-935f-08536ee81a7a"
+    },
+    {
+      "tama_id": "a57abcfa-8273-4a06-992a-2338fd9d1844",
+      "created_at": "2023-11-05 20:12:17.223349+00",
+      "tama_name": "purpleheart",
+      "tama_image_url": "purpleheart_tama.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "87be012a-52ec-11ee-b9a0-0242ac150002"
+    },
+    {
+      "tama_id": "385addc8-2563-4b72-9467-04ff88f8896e",
+      "created_at": "2023-12-04 16:56:43.332379+00",
+      "tama_name": "beginner",
+      "tama_image_url": "beginner_image_1701709002012.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "b031c9dc-6c6f-409a-8ff1-f5d2d4e58eaf"
+    },
+    {
+      "tama_id": "4493b03e-17b0-4a9c-972c-ddf69c28a775",
+      "created_at": "2023-12-04 16:56:57.670084+00",
+      "tama_name": "intermediate",
+      "tama_image_url": "intermediate_image_1701709016513.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "b031c9dc-6c6f-409a-8ff1-f5d2d4e58eaf"
+    },
+    {
+      "tama_id": "42aa4f40-6d2f-4bd9-b030-b8435e3f6f38",
+      "created_at": "2023-12-04 16:57:38.625483+00",
+      "tama_name": "advanced",
+      "tama_image_url": "advanced_image_1701709057369.png",
+      "tama_number_of_tricks": 10,
+      "tama_group_id": "b031c9dc-6c6f-409a-8ff1-f5d2d4e58eaf"
+    },
+    {
+      "tama_id": "6fd13acc-9c54-4e32-b5d5-b51c324016af",
+      "created_at": "2023-12-04 16:57:58.281413+00",
+      "tama_name": "AM open",
+      "tama_image_url": "AM open_image_1701709077136.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "b031c9dc-6c6f-409a-8ff1-f5d2d4e58eaf"
+    },
+    {
+      "tama_id": "1a8e539c-9491-4760-aa76-6d46c8e4a29a",
+      "created_at": "2023-12-04 16:58:15.833057+00",
+      "tama_name": "pro open",
+      "tama_image_url": "pro open_image_1701709094882.png",
+      "tama_number_of_tricks": 30,
+      "tama_group_id": "b031c9dc-6c6f-409a-8ff1-f5d2d4e58eaf"
+    },
+    {
+      "tama_id": "dde9069a-3b2a-4451-b51b-d4e2b4de1352",
+      "created_at": "2023-12-02 22:17:10.344959+00",
+      "tama_name": "purpleheart",
+      "tama_image_url": "purpleheart_image_1701555429226.png",
+      "tama_number_of_tricks": 9,
+      "tama_group_id": "432e7e93-975e-4000-935f-08536ee81a7a"
+    },
+    {
+      "tama_id": "ca15b269-1b34-483a-8490-d7bd1d593cb6",
+      "created_at": "2024-02-06 09:45:22+00",
+      "tama_name": "beech",
+      "tama_image_url": "beech_image_1707126320978.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "c2afe1fa-d361-4810-a621-38f175c64173"
+    },
+    {
+      "tama_id": "5760c066-22c1-434c-9218-8e5f04b493b9",
+      "created_at": "2024-02-05 09:45:34.783761+00",
+      "tama_name": "birch",
+      "tama_image_url": "birch_image_1707126333105.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "c2afe1fa-d361-4810-a621-38f175c64173"
+    },
+    {
+      "tama_id": "bce37639-a0c4-48c9-abac-376e198a5e7c",
+      "created_at": "2024-02-05 09:45:48.697447+00",
+      "tama_name": "ash",
+      "tama_image_url": "ash_image_1707126347456.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "c2afe1fa-d361-4810-a621-38f175c64173"
+    },
+    {
+      "tama_id": "f45dafe6-9c1d-4629-885a-f58293c7fc25",
+      "created_at": "2024-02-06 11:57:35.002063+00",
+      "tama_name": "bamboo",
+      "tama_image_url": "bamboo_image_1707220652431.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "c2afe1fa-d361-4810-a621-38f175c64173"
+    },
+    {
+      "tama_id": "77912c55-03a5-4325-9834-21eb63fbe984",
+      "created_at": "2024-02-06 12:07:09.40068+00",
+      "tama_name": "purpleheart",
+      "tama_image_url": "purpleheart_image_1707221228092.png",
+      "tama_number_of_tricks": 19,
+      "tama_group_id": "c2afe1fa-d361-4810-a621-38f175c64173"
+    },
+    {
+      "tama_id": "05625398-7b94-42c4-89c9-c8dfadc4fb2e",
+      "created_at": "2024-02-06 12:28:58.548219+00",
+      "tama_name": "cherry",
+      "tama_image_url": "cherry_image_1707167218771.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "c2afe1fa-d361-4810-a621-38f175c64173"
+    },
+    {
+      "tama_id": "283ad4fb-6848-4a28-b350-8d05703a1e8e",
+      "created_at": "2024-02-06 12:34:47.852782+00",
+      "tama_name": "hickory",
+      "tama_image_url": "hickory_image_1707222886860.png",
+      "tama_number_of_tricks": 20,
+      "tama_group_id": "c2afe1fa-d361-4810-a621-38f175c64173"
+    }
+  ]
+}
